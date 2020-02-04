@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: d85845e8be9ba4e09b61d5f02af7b355
+timeCreated: 1506951362
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Fire_Truck_001
+    100002: //RootNode
+    100004: Fire_Truck_001_Part
+    100006: Fire_Truck_001_W_FL
+    100008: Fire_Truck_001_W_FR
+    100010: Fire_Truck_001_W_RL1
+    100012: Fire_Truck_001_W_RL2
+    100014: Fire_Truck_001_W_RR1
+    100016: Fire_Truck_001_W_RR2
+    400000: //RootNode
+    400002: Fire_Truck_001
+    400004: Fire_Truck_001_Part
+    400006: Fire_Truck_001_W_FL
+    400008: Fire_Truck_001_W_FR
+    400010: Fire_Truck_001_W_RL1
+    400012: Fire_Truck_001_W_RL2
+    400014: Fire_Truck_001_W_RR1
+    400016: Fire_Truck_001_W_RR2
+    2300000: Fire_Truck_001
+    2300002: Fire_Truck_001_Part
+    2300004: Fire_Truck_001_W_FL
+    2300006: Fire_Truck_001_W_FR
+    2300008: Fire_Truck_001_W_RL1
+    2300010: Fire_Truck_001_W_RL2
+    2300012: Fire_Truck_001_W_RR1
+    2300014: Fire_Truck_001_W_RR2
+    3300000: Fire_Truck_001
+    3300002: Fire_Truck_001_Part
+    3300004: Fire_Truck_001_W_FL
+    3300006: Fire_Truck_001_W_FR
+    3300008: Fire_Truck_001_W_RL1
+    3300010: Fire_Truck_001_W_RL2
+    3300012: Fire_Truck_001_W_RR1
+    3300014: Fire_Truck_001_W_RR2
+    4300000: Fire_Truck_001
+    4300002: Fire_Truck_001_W_FR
+    4300004: Fire_Truck_001_W_RR1
+    4300006: Fire_Truck_001_W_RR2
+    4300008: Fire_Truck_001_W_RL2
+    4300010: Fire_Truck_001_W_RL1
+    4300012: Fire_Truck_001_W_FL
+    4300014: Fire_Truck_001_Part
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
